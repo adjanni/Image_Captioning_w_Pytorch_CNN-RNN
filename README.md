@@ -12,5 +12,7 @@ You should note that pycocotools requires Visual C++ 2019 Build Tools (the lates
 
 3. Use pip to install pycocotools: `pip install git+https://github.com/cocodataset/cocoapi.git#subdirectory=PythonAPI`
 
-4. If done properly, you should see "pycocotools-2.0"
+4. If done properly, you should see "pycocotools-2.0".
+
+5. It should work!!!
 
